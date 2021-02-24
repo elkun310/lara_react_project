@@ -16,7 +16,7 @@ Developed by Elkun310
     
 - Config Laravel UI for Reactjs
     - `php artisan ui nextjs`
-    - `composer require laravel/ui`
+    - `composer install`
     - `php artisan ui bootstrap`
     - `npm install`
     - `npm run dev`
